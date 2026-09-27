@@ -1,5 +1,5 @@
 def get_message():
-    return "Hello from my GitHub project!"
+    return "Hello from my GitHub project - Version 2!"
 
 
 if __name__ == "__main__":
